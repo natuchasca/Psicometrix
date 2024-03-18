@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 86.92278 74.4"
+	 enable-background="new 0 0 86.92278 74.4" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="1610.44104" height="16383" bottomLeftOrigin="true" y="-8588" x="0"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	
+		<rect x="3.78521" y="24.54357" transform="matrix(0.68861 0.72514 -0.72514 0.68861 36.03596 -9.51614)" fill="none" stroke="#2DA6CD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="50.62557" height="25.3128"/>
+	
+		<path fill="#FFFFFF" stroke="#416582" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M38.54424,28.88789l-9.44619-10.16332c0,0,11.05616-3.92786,14.11115-4.21881c3.05499-0.29095,13.8202,5.81902,18.6209,8.43758
+		c4.8007,2.61856,8.14664,1.30928,8.14664,1.30928l0.00001,17.31163c0,0-10.48431,15.14894-22.70427,1.61969"/>
+	
+		<path fill="#FFFFFF" stroke="#416582" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M51.81652,33.35015l-16.43527-5.16178c-2.80783-0.88185-5.82666,0.69396-6.70851,3.5018l0,0.00001
+		c-0.88185,2.80783,0.69396,5.82666,3.50179,6.70851l14.98189,4.70532"/>
+	
+		<rect x="69.83127" y="20.88164" fill="#FFFFFF" stroke="#416582" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14.60156" height="25.65376"/>
+</g>
+</svg>
