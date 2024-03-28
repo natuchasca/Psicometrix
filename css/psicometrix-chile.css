@@ -902,6 +902,7 @@
   font-size: 16px;
   color: #ebf7f9;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .div-botones {
@@ -948,12 +949,25 @@
   margin-right: auto;
   margin-left: auto;
 }
-
+.link-social {
+  display: inline-block;
+  width: 26px;
+  height: 31px;
+  text-align: center;
+  margin-right: 6px;
+  margin-left: 6px;
+}
 .ico-social {
   width: 26px;
   height: 31px;
-  margin-right: 6px;
-  margin-left: 6px;
+  margin: 0 auto;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+.link-social:hover img.ico-social,
+.link-social:focus img.ico-social {
+  transform: scale(1.1);
+  filter: brightness(100);
 }
 
 .link-block {
@@ -1738,6 +1752,9 @@
   color: #2c3e4f;
   font-size: 18px;
   text-align: center;
+}
+.tabs-menu h2 {
+  font-size: 18px;
 }
 
 .tabs {
@@ -3180,7 +3197,7 @@
   opacity: 1;
 }
 .card-img-box .link {
-  color: #ef9d35;
+  color: #ffffff;
 }
 
 .badge {
@@ -3200,15 +3217,6 @@
   position: relative;
   margin: 30px auto;
 }
-/*.test-timeline:before {
-  content: "";
-  width: 100%;
-  height: 3px;
-  border-top: 3px solid grey;
-  display: block;
-  position: absolute;
-  top: 100%;
-}*/
 .test-timeline-container {
   display: flex;
   align-items: center;
@@ -3220,9 +3228,11 @@
   width: 300px;
 /*  margin: 0 auto;*/
   display: flex;
+  margin-top: 30px;
 }
-.test-timeline-item.item-full {
-  margin: 0 auto;
+.test-timeline-item.full-item {
+  margin-left: auto;
+  margin-right: auto;
 }
 .test-timeline-item:before {
   content: "";
@@ -3254,6 +3264,7 @@
   right: 0;
   bottom: -10px;
   margin: 0 auto;
+  z-index: 5;
 }
 .test-timeline-item:has(.bg-pa):after { border: 3px solid #1d828d; }
 .test-timeline-item:has(.bg-pv):after { border: 3px solid #36a8cb; }
@@ -3303,9 +3314,9 @@
   line-height: 1.2;
 }
 
-.test-timeline-item.item-full:after,
-.test-timeline-item.item-full:before,
-.test-timeline-item.item-full .timeline-icon:before {
+.test-timeline-item.full-item:after,
+.test-timeline-item.full-item:before,
+.test-timeline-item.full-item .timeline-icon:before {
   content: none;
 }
 
@@ -3316,3 +3327,14 @@
 .bg-paut { background: #8bc8d4; color: #2f4a5f; }
 .bg-etp { background: #2f4a5f; color: #ffffff; }
 
+
+.full-timeline:before {
+  content: "";
+  width: 100%;
+  height: 3px;
+  border-top: 5px dashed #1d828d;
+  display: block;
+  position: absolute;
+  top: -25px;
+  z-index: 1;
+}
