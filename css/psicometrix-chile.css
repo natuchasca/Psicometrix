@@ -538,6 +538,7 @@
 
 .subtitulo.faq {
   margin-top: 5px;
+  font-size: 18px;
 }
 
 .subtitulo.b {
@@ -1135,6 +1136,11 @@
   box-shadow: 0 0 18px 0 rgba(44, 62, 79, 0.26);
 }
 
+h3.dropdown-title {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
 .nav-link-2 {
   height: auto;
   margin: 0px 6px;
@@ -1517,9 +1523,9 @@
   border-radius: 10px;
 }
 
-.dropdown-toggle-2.w--open {
+/*.dropdown-toggle-2.w--open {
   position: static;
-}
+}*/
 
 .dropdown-toggle-2._1 {
   cursor: default;
@@ -1986,9 +1992,9 @@
   border-radius: 10px;
 }
 
-.dropdown-toggle-3.w--open {
+/*.dropdown-toggle-3.w--open {
   position: static;
-}
+}*/
 
 .dropdown-toggle-3.not {
   cursor: default;

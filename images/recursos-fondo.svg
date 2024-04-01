@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1200 335.6" style="enable-background:new 0 0 1200 335.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{clip-path:url(#SVGID_00000170966540563804194830000005008759623334197939_);}
+	.st0{clip-path:url(#SVGID_2_);}
 	.st1{fill:#F2F8F9;}
 	.st2{fill:#00A6CC;}
 	.st3{fill:#FFFFFF;}
@@ -11,22 +11,24 @@
 	.st5{fill:#224559;}
 </style>
 <g>
-	<defs>
-		<rect id="SVGID_1_" y="-384.8" width="1200" height="710.9"/>
-	</defs>
-	<clipPath id="SVGID_00000085230876279557405500000003916561560705496459_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g style="clip-path:url(#SVGID_00000085230876279557405500000003916561560705496459_);">
-		<path class="st1" d="M1221.7,263.9c-86.1,44.2-190.7,64.9-285.6,62.6c-268.1-6.5-528-88.7-795.4-66.9
-			c-53.8,4.4-109.2,13.1-155.2,44.3V-7h1236.2V263.9z"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" y="-384.8" width="1200" height="710.9"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<path class="st1" d="M1221.7,263.9c-86.1,44.2-190.7,64.9-285.6,62.6c-268.1-6.5-528-88.7-795.4-66.9
+				C86.9,264,31.5,272.7-14.5,303.9V-7h1236.2V263.9z"/>
+		</g>
 	</g>
 </g>
-<path class="st2" d="M372,207.4c0.3,2.1,1,4.1,2,5.9c3.8,6.3,12,3.7,17.8,2.5l31.2-6.4c3.5-0.7,7.2-1.5,9.8-4
+<path class="st2" d="M187.8,146.3c0.3,2.1,1,4.1,2,5.9c3.8,6.3,12,3.7,17.8,2.5l31.2-6.4c3.5-0.7,7.2-1.5,9.8-4
 	c5.7-5.4,3.4-14.2,1.1-20.7c-2.2-6.3-3.9-16.4-11.9-17.4c-2.8-0.2-5.6,0.1-8.4,0.9c-12.2,2.8-24.5,5.1-36.6,8.3
-	c-3.6,0.9-10.3,3-10.1,7.6c0.4,7.5,3.3,15.6,4.9,22.9L372,207.4z"/>
-<polygon class="st3" points="389.8,186 394.5,202.4 412.6,188.4 "/>
-<path class="st4" d="M779.6,218.4c0,0,5.5,1.7,8.4,1.5l9-41.7l-7.9-2.1L779.6,218.4z"/>
-<polygon class="st5" points="779.6,218.4 781.6,229.9 788,219.8 "/>
-<polygon class="st5" points="789.1,176 797,178.1 797.6,174 789.8,172 "/>
+	c-3.6,0.9-10.3,3-10.1,7.6c0.4,7.5,3.3,15.6,4.9,22.9L187.8,146.3z"/>
+<polygon class="st3" points="205.6,124.9 210.3,141.3 228.4,127.3 "/>
+<path class="st4" d="M973.3,156.3c0,0,5.5,1.7,8.4,1.5l9-41.7l-7.9-2.1L973.3,156.3z"/>
+<polygon class="st5" points="973.3,156.3 975.3,167.8 981.7,157.7 "/>
+<polygon class="st5" points="982.8,113.9 990.7,116 991.3,111.9 983.5,109.9 "/>
 </svg>
