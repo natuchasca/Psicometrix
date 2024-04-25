@@ -986,6 +986,13 @@
 .herramientas-colegios._2 {
   margin-left: 122px;
 }
+@media (min-width: 991px) {
+  .herramientas-colegios._3 {
+    margin-left: 383px;
+  }
+}
+
+
 
 .columna-herramientas {
   padding-right: 0px;
@@ -2175,10 +2182,12 @@ h3.dropdown-title {
   }
 
   .dropdown-toggle._2 {
-    width: 100px;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
     color: #fff;
+    display: block;
+    text-align: center;
   }
 
   .drop-nav {
@@ -3368,6 +3377,76 @@ h3.dropdown-title {
   top: -25px;
   z-index: 1;
 }
+
+@media (max-width: 991px) {
+  .test-timeline {
+    margin-bottom: 0;
+    width: 300px;
+  }
+  .test-timeline:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-right: 5px dashed #1d828d;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .test-timeline-container {
+    flex-direction: column;
+  }
+  .test-timeline-item {
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .test-timeline-item:before {
+    width: 5px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin-left: 0;
+  }
+  .test-timeline-item:after {
+    left: 0;
+    margin-left: -5px;
+    top: 50%;
+    margin-top: -5px;
+  }
+  .timeline-icon:before {
+    border-top: 10px solid transparent !important;
+    right: 90%;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    margin-top: -10px;
+  }
+  .bg-pa.timeline-icon:before { border-right: 20px solid #1d828d; }
+  .bg-pv.timeline-icon:before { border-right: 20px solid #36a8cb; }
+  .bg-ppv.timeline-icon:before { border-right: 20px solid #216b90; }
+  .bg-paut.timeline-icon:before { border-right: 20px solid #8bc8d4; }
+  .bg-etp.timeline-icon:before { border-right: 20px solid #2f4a5f; }
+  .full-timeline {
+    position: relative;
+    height: 120px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  .full-timeline:before {
+    border-right: 5px dashed #1d828d;
+    border-top: 0;
+    height: 100%;
+  }
+  .test-timeline-item.full-item:after {
+    content: "";
+    right: 0;
+    margin-left: 0;
+    margin-right: -5px;
+    left: auto;
+  }
+}
+
 
 
 /* Helpers */
